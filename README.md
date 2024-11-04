@@ -1,4 +1,4 @@
-Live preview: vme-online.vercell.app
+Live preview: vme-online.vercel.app
 
 VME Online ist eine fortschrittliche Plattform, die intelligente Automatisierungslösungen und künstliche Intelligenz (KI) nutzt, um Geschäftsprozesse, Meetings und operative Abläufe effizienter zu gestalten. Die Plattform vereinfacht den Arbeitsalltag durch Automatisierung und unterstützt Unternehmen dabei, Ressourcen zu optimieren und fundierte Entscheidungen auf Basis von Datenanalysen zu treffen.
 
